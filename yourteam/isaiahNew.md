@@ -1,4 +1,13 @@
-created
+#Welcome to my Markdown file
 
--edited maded form web
--mereged the branch bio/isaiah to main
+##Create a header
+
+*italic
+**bolded
+
+##Create a list
+1.hi
+ 1. h
+ 2. i
+2.hello
+3.bye 
